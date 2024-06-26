@@ -50,8 +50,6 @@
 ```
 git clone https://github.com/miUser/gitLearn
 ```
-![image](https://github.com/compose-projects-android/SocialLocal/assets/166412593/19c7b77c-66e8-4a1c-b473-80a8241acd9d)
-
 
 # Manténgase actualizado
 ### Antes de cualquier contribución sincronice el repositorio remoto con su espacio de trabajo
