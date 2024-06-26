@@ -139,7 +139,7 @@ git push -u origin <name_your_branch>
   </a>
 
   <a href="https://developer.android.com/training/data-storage/room?hl=es-419">
-    <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=database&logoColor=white" width="80" height="30" />
+    <img src="https://img.shields.io/badge/-Room-red?style=flat-square&logo=android&logoColor=white" width="80" height="30" />
   </a>
 
 </p>
