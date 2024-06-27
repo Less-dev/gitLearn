@@ -4,6 +4,10 @@
 </p>
 <h3 align="center">Una aplicación para aprender a usar git</h3>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
+</p>
+
 1. [`CÓMO CONTRIBUIR`](#Contribuciones)  
    1.1 [Bifurque el proyecto](#configuración-del-proyecto)
 
@@ -38,7 +42,14 @@
    2.2 [Tecnologias](#-tecnologías)
 
    2.3 [Vistas](#-Vistas)
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+
+<img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" height="60" style="float: left;">
+
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" heigh="20">
 
 # `Contribuciones`
 
@@ -99,8 +110,6 @@ git push -u origin <name_your_branch>
 
 # `Especificaciones Técnicas`
 
-- **Red Local:** Utiliza servicios de red para comunicación entre dispositivos en una red local.
-- **Seguridad:** Implementa cifrado en mensajes importantes para proteger la privacidad.
 - **UI/UX:** Diseño intuitivo con soporte para temas claros y oscuros para una mejor experiencia de usuario.
 - **Pruebas:** Incluye pruebas unitarias, de integración y de UI para asegurar la calidad del software.
 
@@ -111,15 +120,15 @@ git push -u origin <name_your_branch>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">🧑‍🏫 Arquitectura de módulos de Social Local </h3>
+<h3 align="center">🧑‍🏫 Arquitectura de módulos de Git Learn </h3>
 
-![grafico_sl](https://github.com/compose-projects-android/SocialLocal/assets/166412593/d98528aa-6a40-4fec-96b6-8bb94a498642)
+//image pedient
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">📈 Diagrama de base de datos de Social Local </h3>
+<h3 align="center">📈 Diagrama de base de datos de Git Learn </h3>
 
-![diagramDBSocialLocal](https://github.com/compose-projects-android/SocialLocal/assets/166412593/c3973b64-5a07-4889-a5d6-f62b565e34ca)
+//image pendient
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -150,11 +159,11 @@ git push -u origin <name_your_branch>
 
 
 
-
 <h3 align="center">🎨 Vistas</h3>
 
 #### Adjunto PDF
-[screens.pdf](https://github.com/compose-projects-android/SocialLocal/blob/master/SLscreens.pdf)
+
+//pdf pendient3
 
 
 #### by: [Less](https://github.com/less-dev/)
