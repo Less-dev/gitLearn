@@ -130,6 +130,10 @@ git push -u origin <name_your_branch>
 
 //image pendient
 
+<-- this is a commmentary for testing archivemnet --/>
+<-- this is a commmentary for testing archivemnet --/>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🛠 Tecnologías</h2>
@@ -157,13 +161,17 @@ git push -u origin <name_your_branch>
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </p>
 
-
+<-- this is a commmentary for testing archivemnet --/>
+<-- this is a commmentary for testing archivemnet --/>
 
 <h3 align="center">🎨 Vistas</h3>
 
 #### Adjunto PDF
 
-//pdf pendient3
+//pdf pendient
 
+<-- this is a commmentary for testing archivemnet --/>
+<-- this is a commmentary for testing archivemnet --/>
+<-- this is a commmentary for testing archivemnet --/>
 
 #### by: [Less](https://github.com/less-dev/)
