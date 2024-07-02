@@ -122,16 +122,9 @@ git push -u origin <name_your_branch>
 
 <h3 align="center">🧑‍🏫 Arquitectura de módulos de Git Learn </h3>
 
-//image pedient
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">📈 Diagrama de base de datos de Git Learn </h3>
-
-//image pendient
-
-<-- this is a commmentary for testing archivemnet --/>
-<-- this is a commmentary for testing archivemnet --/>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -161,99 +154,12 @@ git push -u origin <name_your_branch>
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </p>
 
-<-- this is a commmentary for testing archivemnet --/>
-<-- this is a commmentary for testing archivemnet --/>
+
 
 <h3 align="center">🎨 Vistas</h3>
 
 #### Adjunto PDF
 
-//pdf pendient
-
-<-- this is a commmentary for testing archivemnet --/>
-<-- this is a commmentary for testing archivemnet --/>
-<-- this is a commmentary for testing archivemnet --/>
-
-<!-- 1 new comment -->
-<!-- 1 new comment -->
-<!-- 1 new comment -->
-
-<!-- 2 new comment -->
-<!-- 2 new comment -->
-<!-- 2 new comment -->
-
-<!-- 3 new comment -->
-<!-- 3 new comment -->
-<!-- 3 new comment -->
-
-<!-- 4 new comment -->
-<!-- 4 new comment -->
-<!-- 4 new comment -->
-
-<!-- 5 new comment -->
-<!-- 5 new comment -->
-<!-- 5 new comment -->
-
-<!-- 6 new comment -->
-<!-- 6 new comment -->
-<!-- 6 new comment -->
-
-<!-- 7 new comment -->
-<!-- 7 new comment -->
-<!-- 7 new comment -->
-
-
-<!-- 8 new comment -->
-<!-- 8 new comment -->
-<!-- 8 new comment -->
-
-<!-- 9 new comment -->
-<!-- 9 new comment -->
-<!-- 9 new comment -->
-
-<!-- 10 new comment -->
-<!-- 10 new comment -->
-<!-- 10 new comment -->
-
-<!-- 11 new comment -->
-<!-- 11 new comment -->
-<!-- 11 new comment -->
-
-<!-- 12 new comment -->
-<!-- 12 new comment -->
-<!-- 12 new comment -->
-
-<!-- 13 new comment -->
-<!-- 13 new comment -->
-<!-- 13 new comment -->
-
-<!-- 14 new comment -->
-<!-- 14 new comment -->
-<!-- 14 new comment -->
-
-<!-- 15 new comment -->
-<!-- 15 new comment -->
-<!-- 15 new comment -->
-
-<!-- 16 new comment -->
-<!-- 16 new comment -->
-<!-- 16 new comment -->
-
-<!-- 17 new comment -->
-<!-- 17 new comment -->
-<!-- 17 new comment -->
-
-<!-- 18 new comment -->
-<!-- 18 new comment -->
-<!-- 18 new comment -->
-
-<!-- 19 new comment -->
-<!-- 19 new comment -->
-<!-- 19 new comment -->
-
-<!-- 20 new comment -->
-<!-- 20 new comment -->
-<!-- 20 new comment -->
 
 
 
