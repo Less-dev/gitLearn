@@ -127,6 +127,7 @@ git push -u origin <name_your_branch>
 
 <h3 align="center">📈 Diagrama de base de datos de Git Learn </h3>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🛠 Tecnologías</h2>
@@ -159,20 +160,6 @@ git push -u origin <name_your_branch>
 <h3 align="center">🎨 Vistas</h3>
 
 #### Adjunto PDF
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #### by: [Less](https://github.com/less-dev/)
